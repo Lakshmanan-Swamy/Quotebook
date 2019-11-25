@@ -4,4 +4,4 @@ merging exercise
 
 
 Making changes in Master branch
-
+after fixing the merge conflict
