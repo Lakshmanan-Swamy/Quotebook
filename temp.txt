@@ -1,1 +1,3 @@
 text in temp file in temp_branch
+
+- tyring git diff option
