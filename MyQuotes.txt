@@ -2,4 +2,6 @@ My quotes in MyQuoteBook branch in git
 
 merging exercise
 
+
 Making changes in Master branch
+
