@@ -1,3 +1,5 @@
 My quotes in MyQuoteBook branch in git
 
 merging exercise
+
+Making change in MyQuoteBook
