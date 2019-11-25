@@ -1,0 +1,3 @@
+My quotes in MyQuoteBook branch in git
+
+branching exercise
